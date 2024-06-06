@@ -18,3 +18,6 @@ G:\djangoProject\DesignPattern\Main\obj\Debug\net8.0\ref\Main.dll
 G:\djangoProject\DesignPattern\Main\bin\Debug\net8.0\Facade.dll
 G:\djangoProject\DesignPattern\Main\bin\Debug\net8.0\Facade.pdb
 G:\djangoProject\DesignPattern\Main\obj\Debug\net8.0\Main.csproj.Up2Date
+G:\djangoProject\DesignPattern\Main\bin\Debug\net8.0\Bridge.dll
+G:\djangoProject\DesignPattern\Main\bin\Debug\net8.0\Bridge.pdb
+G:\djangoProject\DesignPattern\Main\obj\Debug\net8.0\Main.sourcelink.json

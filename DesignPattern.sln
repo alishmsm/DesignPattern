@@ -6,6 +6,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Main", "Main\Main.csproj", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Facade", "Facade\Facade.csproj", "{FCF478F2-1F76-4247-B8E0-EC18EC470F65}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bridge", "Bridge\Bridge.csproj", "{4BDC890B-83C7-4DC4-ABD8-8063B21BAE3B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +26,9 @@ Global
 		{FCF478F2-1F76-4247-B8E0-EC18EC470F65}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FCF478F2-1F76-4247-B8E0-EC18EC470F65}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FCF478F2-1F76-4247-B8E0-EC18EC470F65}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4BDC890B-83C7-4DC4-ABD8-8063B21BAE3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BDC890B-83C7-4DC4-ABD8-8063B21BAE3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BDC890B-83C7-4DC4-ABD8-8063B21BAE3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BDC890B-83C7-4DC4-ABD8-8063B21BAE3B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

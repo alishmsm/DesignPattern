@@ -8,11 +8,17 @@
     ".NETCoreApp,Version=v8.0": {
       "Main/1.0.0": {
         "dependencies": {
+          "Bridge": "1.0.0",
           "Decoratorr": "1.0.0",
           "Facade": "1.0.0"
         },
         "runtime": {
           "Main.dll": {}
+        }
+      },
+      "Bridge/1.0.0": {
+        "runtime": {
+          "Bridge.dll": {}
         }
       },
       "Decoratorr/1.0.0": {
@@ -29,6 +35,11 @@
   },
   "libraries": {
     "Main/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Bridge/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

@@ -8,6 +8,7 @@
     </PropertyGroup>
 
     <ItemGroup>
+      <ProjectReference Include="..\Bridge\Bridge.csproj" />
       <ProjectReference Include="..\Decoratorr\Decoratorr.csproj" />
       <ProjectReference Include="..\Facade\Facade.csproj" />
     </ItemGroup>
