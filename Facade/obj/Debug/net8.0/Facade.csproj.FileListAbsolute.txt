@@ -1,0 +1,11 @@
+G:\djangoProject\DesignPattern\Facade\bin\Debug\net8.0\Facade.deps.json
+G:\djangoProject\DesignPattern\Facade\bin\Debug\net8.0\Facade.dll
+G:\djangoProject\DesignPattern\Facade\bin\Debug\net8.0\Facade.pdb
+G:\djangoProject\DesignPattern\Facade\obj\Debug\net8.0\Facade.GeneratedMSBuildEditorConfig.editorconfig
+G:\djangoProject\DesignPattern\Facade\obj\Debug\net8.0\Facade.AssemblyInfoInputs.cache
+G:\djangoProject\DesignPattern\Facade\obj\Debug\net8.0\Facade.AssemblyInfo.cs
+G:\djangoProject\DesignPattern\Facade\obj\Debug\net8.0\Facade.csproj.CoreCompileInputs.cache
+G:\djangoProject\DesignPattern\Facade\obj\Debug\net8.0\Facade.dll
+G:\djangoProject\DesignPattern\Facade\obj\Debug\net8.0\refint\Facade.dll
+G:\djangoProject\DesignPattern\Facade\obj\Debug\net8.0\Facade.pdb
+G:\djangoProject\DesignPattern\Facade\obj\Debug\net8.0\ref\Facade.dll

@@ -1,0 +1,11 @@
+G:\djangoProject\DesignPattern\Decoratorr\bin\Debug\net8.0\Decoratorr.deps.json
+G:\djangoProject\DesignPattern\Decoratorr\bin\Debug\net8.0\Decoratorr.dll
+G:\djangoProject\DesignPattern\Decoratorr\bin\Debug\net8.0\Decoratorr.pdb
+G:\djangoProject\DesignPattern\Decoratorr\obj\Debug\net8.0\Decoratorr.GeneratedMSBuildEditorConfig.editorconfig
+G:\djangoProject\DesignPattern\Decoratorr\obj\Debug\net8.0\Decoratorr.AssemblyInfoInputs.cache
+G:\djangoProject\DesignPattern\Decoratorr\obj\Debug\net8.0\Decoratorr.AssemblyInfo.cs
+G:\djangoProject\DesignPattern\Decoratorr\obj\Debug\net8.0\Decoratorr.csproj.CoreCompileInputs.cache
+G:\djangoProject\DesignPattern\Decoratorr\obj\Debug\net8.0\Decoratorr.dll
+G:\djangoProject\DesignPattern\Decoratorr\obj\Debug\net8.0\refint\Decoratorr.dll
+G:\djangoProject\DesignPattern\Decoratorr\obj\Debug\net8.0\Decoratorr.pdb
+G:\djangoProject\DesignPattern\Decoratorr\obj\Debug\net8.0\ref\Decoratorr.dll
